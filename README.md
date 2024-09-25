@@ -2,6 +2,8 @@
 
 Developed in C++ and OpenGL, this real-time character animation system employs advanced skeletal animation techniques using Assimp, featuring keyframe interpolation, hierarchical modeling, and dual quaternion skinning for smooth and realistic deformations. The system supports complex bone hierarchies and utilizes Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) for high visual fidelity, along with an HDR skybox for a dynamic environment. Parallelized using OpenMP, the project delivers high performance by distributing computations across bone tree branches.
 
+![2](https://github.com/user-attachments/assets/8a67fe1b-5bf2-4a0f-88f3-7927407eb2f1)
+
 ## Features
 
 ### Graphics and Rendering:
@@ -35,7 +37,9 @@ Efficient Bone Parsing and Animation Loading: Optimizes the loading of complex b
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-Read the full license here.
+[Read the full license here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+![1](https://github.com/user-attachments/assets/78eec316-d0b1-4743-9b22-b2f55c73fc7f)
 
 ## Installation
 
