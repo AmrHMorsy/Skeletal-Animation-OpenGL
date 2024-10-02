@@ -2,7 +2,7 @@
 
 Real-time character animation system that employs advanced skeletal animation techniques using Assimp, featuring keyframe interpolation, hierarchical modeling, and dual quaternion skinning for smooth and realistic deformations. The system supports complex bone hierarchies and utilizes Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) for high visual fidelity, along with an HDR skybox for a dynamic environment. Parallelized using OpenMP, the project delivers high performance by distributing computations across bone tree branches.
 
-![image-9](https://github.com/user-attachments/assets/12d49fbc-7d8b-48fb-9b0b-9204fae641ca)
+![image-9](https://github.com/user-attachments/assets/1f2cf515-dd62-451f-b746-bd21db44904e)
 
 ## Features
 
